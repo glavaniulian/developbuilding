@@ -1,0 +1,16 @@
+C:\Users\FISHU\Desktop\VAULT\VAULT\bin\Release\VAULT.exe.config
+C:\Users\FISHU\Desktop\VAULT\VAULT\bin\Release\VAULT.exe
+C:\Users\FISHU\Desktop\VAULT\VAULT\bin\Release\VAULT.pdb
+C:\Users\FISHU\Desktop\VAULT\VAULT\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\FISHU\Desktop\VAULT\VAULT\obj\Release\DEVELOPBUILDING.csprojResolveAssemblyReference.cache
+C:\Users\FISHU\Desktop\VAULT\VAULT\obj\Release\VAULT.loginDEVELOPBUILDING.resources
+C:\Users\FISHU\Desktop\VAULT\VAULT\obj\Release\VAULT.Properties.Resources.resources
+C:\Users\FISHU\Desktop\VAULT\VAULT\obj\Release\DEVELOPBUILDING.csproj.GenerateResource.Cache
+C:\Users\FISHU\Desktop\VAULT\VAULT\obj\Release\VAULT.exe
+C:\Users\FISHU\Desktop\VAULT\VAULT\obj\Release\VAULT.pdb
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\Release\DEVELOPBUILDING.csprojResolveAssemblyReference.cache
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\Release\VAULT.loginDEVELOPBUILDING.resources
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\Release\VAULT.Properties.Resources.resources
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\Release\DEVELOPBUILDING.csproj.GenerateResource.Cache
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\Release\VAULT.exe
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\Release\VAULT.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEVELOPBUILDING", "VAULT\DEVELOPBUILDING.csproj", "{74B40E1E-3433-4779-94D5-5634B5F326F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		fixbugs|Any CPU = fixbugs|Any CPU
+		fixbugs|x86 = fixbugs|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B40E1E-3433-4779-94D5-5634B5F326F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B40E1E-3433-4779-94D5-5634B5F326F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B40E1E-3433-4779-94D5-5634B5F326F7}.Debug|x86.ActiveCfg = Debug|x86
+		{74B40E1E-3433-4779-94D5-5634B5F326F7}.Debug|x86.Build.0 = Debug|x86
+		{74B40E1E-3433-4779-94D5-5634B5F326F7}.fixbugs|Any CPU.ActiveCfg = fixbugs|Any CPU
+		{74B40E1E-3433-4779-94D5-5634B5F326F7}.fixbugs|Any CPU.Build.0 = fixbugs|Any CPU
+		{74B40E1E-3433-4779-94D5-5634B5F326F7}.fixbugs|x86.ActiveCfg = fixbugs|x86
+		{74B40E1E-3433-4779-94D5-5634B5F326F7}.fixbugs|x86.Build.0 = fixbugs|x86
+		{74B40E1E-3433-4779-94D5-5634B5F326F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B40E1E-3433-4779-94D5-5634B5F326F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74B40E1E-3433-4779-94D5-5634B5F326F7}.Release|x86.ActiveCfg = Release|x86
+		{74B40E1E-3433-4779-94D5-5634B5F326F7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,218 @@
+C:\Users\FISHU\Desktop\VAULT\VAULT\bin\Debug\VAULT.exe.config
+C:\Users\FISHU\Desktop\VAULT\VAULT\bin\Debug\VAULT.exe
+C:\Users\FISHU\Desktop\VAULT\VAULT\bin\Debug\VAULT.pdb
+C:\Users\FISHU\Desktop\VAULT\VAULT\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\FISHU\Desktop\VAULT\VAULT\obj\Debug\VAULT.loginDEVELOPBUILDING.resources
+C:\Users\FISHU\Desktop\VAULT\VAULT\obj\Debug\VAULT.Properties.Resources.resources
+C:\Users\FISHU\Desktop\VAULT\VAULT\obj\Debug\DEVELOPBUILDING.csproj.GenerateResource.Cache
+C:\Users\FISHU\Desktop\VAULT\VAULT\obj\Debug\VAULT.exe
+C:\Users\FISHU\Desktop\VAULT\VAULT\obj\Debug\VAULT.pdb
+C:\Users\FISHU\Desktop\VAULT\VAULT\obj\Debug\DEVELOPBUILDING.csprojResolveAssemblyReference.cache
+C:\Users\FISHU\Desktop\DEVELOPBUILDING\VAULT\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\FISHU\Desktop\DEVELOPBUILDING\VAULT\obj\Debug\DEVELOPBUILDING.csprojResolveAssemblyReference.cache
+C:\Users\FISHU\Desktop\DEVELOPBUILDING\VAULT\obj\Debug\VAULT.loginDEVELOPBUILDING.resources
+C:\Users\FISHU\Desktop\DEVELOPBUILDING\VAULT\obj\Debug\DEVELOPBUILDING.csproj.GenerateResource.Cache
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\DEVELOPBUILDING\VAULT\obj\Debug\DEVELOPBUILDING.csprojResolveAssemblyReference.cache
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\DEVELOPBUILDING\VAULT\obj\Debug\VAULT.loginDEVELOPBUILDING.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\DEVELOPBUILDING\VAULT\obj\Debug\VAULT.Properties.Resources.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\DEVELOPBUILDING\VAULT\obj\Debug\DEVELOPBUILDING.csproj.GenerateResource.Cache
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\DEVELOPBUILDING\VAULT\obj\Debug\DEVELOPBUILDING.csproj.CoreCompileInputs.cache
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\DEVELOPBUILDING\VAULT\obj\Debug\VAULT.exe
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\DEVELOPBUILDING\VAULT\obj\Debug\VAULT.pdb
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\DEVELOPBUILDING\VAULT\bin\Debug\VAULT.exe.config
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\DEVELOPBUILDING\VAULT\bin\Debug\VAULT.exe
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\DEVELOPBUILDING\VAULT\bin\Debug\VAULT.pdb
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\DEVELOPBUILDING\VAULT\bin\Debug\MySql.Data.dll
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\DEVELOPBUILDING\VAULT\bin\Debug\MySql.Data.xml
+C:\Users\FISHU\Desktop\DEVELOPBUILDING\VAULT\bin\Debug\MySql.Data.xml
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\Debug\DEVELOPBUILDING.csprojResolveAssemblyReference.cache
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\Debug\VAULT.loginDEVELOPBUILDING.resources
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\Debug\DEVELOPBUILDING.csproj.GenerateResource.Cache
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\MaterialSkin.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\DevBuilding.exe.config
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\DevBuilding.exe
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\DevBuilding.pdb
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\Debug\DevBuilding.exe
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\Debug\DevBuilding.pdb
+D:\DEVELOPBUILDING\VAULT\bin\Debug\DevBuilding.exe.config
+D:\DEVELOPBUILDING\VAULT\bin\Debug\DevBuilding.exe
+D:\DEVELOPBUILDING\VAULT\bin\Debug\DevBuilding.pdb
+D:\DEVELOPBUILDING\VAULT\bin\Debug\MaterialSkin.dll
+D:\DEVELOPBUILDING\VAULT\bin\Debug\MySql.Data.dll
+D:\DEVELOPBUILDING\VAULT\bin\Debug\MySql.Data.xml
+D:\DEVELOPBUILDING\VAULT\obj\Debug\DEVELOPBUILDING.csprojResolveAssemblyReference.cache
+D:\DEVELOPBUILDING\VAULT\obj\Debug\VAULT.loginDEVELOPBUILDING.resources
+D:\DEVELOPBUILDING\VAULT\obj\Debug\DEVELOPBUILDING.csproj.GenerateResource.Cache
+D:\DEVELOPBUILDING\VAULT\obj\Debug\DEVELOPBUILDING.csproj.CoreCompileInputs.cache
+D:\DEVELOPBUILDING\VAULT\obj\Debug\DevBuilding.exe
+D:\DEVELOPBUILDING\VAULT\obj\Debug\DevBuilding.pdb
+C:\Users\FISHU\Desktop\DEVELOPBUILDING\VAULT\bin\Debug\DevBuilding.exe.config
+C:\Users\FISHU\Desktop\DEVELOPBUILDING\VAULT\bin\Debug\DevBuilding.exe
+C:\Users\FISHU\Desktop\DEVELOPBUILDING\VAULT\bin\Debug\DevBuilding.pdb
+C:\Users\FISHU\Desktop\DEVELOPBUILDING\VAULT\bin\Debug\MaterialSkin.dll
+C:\Users\FISHU\Desktop\DEVELOPBUILDING\VAULT\bin\Debug\MetroFramework.dll
+C:\Users\FISHU\Desktop\DEVELOPBUILDING\VAULT\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\FISHU\Desktop\DEVELOPBUILDING\VAULT\obj\Debug\DevBuilding.exe
+C:\Users\FISHU\Desktop\DEVELOPBUILDING\VAULT\obj\Debug\DevBuilding.pdb
+C:\Users\FISHU\Desktop\DEVELOPBUILDING\VAULT\bin\Debug\MetroFramework.Design.dll
+C:\Users\FISHU\Desktop\DEVELOPBUILDING\VAULT\obj\Debug\VAULT.Properties.Resources.resources
+D:\DEVELOPBUILDING\VAULT\bin\Debug\MetroFramework.Design.dll
+D:\DEVELOPBUILDING\VAULT\bin\Debug\MetroFramework.dll
+D:\DEVELOPBUILDING\VAULT\bin\Debug\MetroFramework.Fonts.dll
+D:\DEVELOPBUILDING\VAULT\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\DEVELOPBUILDING\VAULT\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\DEVELOPBUILDING\VAULT\bin\Debug\Newtonsoft.Json.dll
+D:\DEVELOPBUILDING\VAULT\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\DEVELOPBUILDING\VAULT\bin\Debug\Twilio.dll
+D:\DEVELOPBUILDING\VAULT\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\DEVELOPBUILDING\VAULT\bin\Debug\Newtonsoft.Json.xml
+D:\DEVELOPBUILDING\VAULT\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\DEVELOPBUILDING\VAULT\bin\Debug\Twilio.xml
+D:\DEVELOPBUILDING\VAULT\obj\Debug\VAULT.Properties.Resources.resources
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\MetroFramework.Design.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\MetroFramework.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\Twilio.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\Twilio.xml
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\Debug\VAULT.Properties.Resources.resources
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\Debug\VAULT.principalformapp.resources
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\AfriCircleImage.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\CircularProgressBar.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\PA.Picture.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\WinFormAnimation.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\CircularProgressBar.xml
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\WinFormAnimation.xml
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\CtpGgglMapWinUI.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\EntityFramework.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\MaterialFramework.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\EntityFramework.xml
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\kontrols.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\JWLibrary.Winform.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\Calendar.DayView.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\GMap.NET.Core.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\Debug\DEVELOPBUILDING.csproj.CoreCompileInputs.cache
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\DevBuilding.exe.config
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\DevBuilding.exe
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\DevBuilding.pdb
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\AfriCircleImage.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\Calendar.DayView.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\CircularProgressBar.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\ComponentFactory.Krypton.Design.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\ComponentFactory.Krypton.Docking.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\CtpGgglMapWinUI.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\EntityFramework.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\EntityFramework.SqlServer.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\GMap.NET.Core.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\GMap.NET.WindowsForms.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\JWLibrary.Winform.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\kontrols.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\LiveCharts.WinForms.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\MaterialFramework.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\MaterialSkin.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\MetroFramework.Design.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\MetroFramework.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\MetroFramework.Fonts.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\Newtonsoft.Json.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\PA.Picture.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\Twilio.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\WinFormAnimation.dll
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\CircularProgressBar.xml
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\EntityFramework.xml
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\EntityFramework.SqlServer.xml
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\LiveCharts.WinForms.pdb
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\LiveCharts.WinForms.xml
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\MySql.Data.xml
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\Newtonsoft.Json.xml
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\Twilio.xml
+E:\AICI FISIERE\lord2\VAULT\bin\Debug\WinFormAnimation.xml
+E:\AICI FISIERE\lord2\VAULT\obj\Debug\DEVELOPBUILDING.csprojResolveAssemblyReference.cache
+E:\AICI FISIERE\lord2\VAULT\obj\Debug\VAULT.loginDEVELOPBUILDING.resources
+E:\AICI FISIERE\lord2\VAULT\obj\Debug\VAULT.principalformapp.resources
+E:\AICI FISIERE\lord2\VAULT\obj\Debug\VAULT.Properties.Resources.resources
+E:\AICI FISIERE\lord2\VAULT\obj\Debug\DEVELOPBUILDING.csproj.GenerateResource.Cache
+E:\AICI FISIERE\lord2\VAULT\obj\Debug\DEVELOPBUILDING.csproj.CoreCompileInputs.cache
+E:\AICI FISIERE\lord2\VAULT\obj\Debug\DevBuilding.exe
+E:\AICI FISIERE\lord2\VAULT\obj\Debug\DevBuilding.pdb
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\DevBuilding.exe.config
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\DevBuilding.exe
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\DevBuilding.pdb
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\AfriCircleImage.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\Calendar.DayView.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\CircularProgressBar.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\ComponentFactory.Krypton.Design.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\ComponentFactory.Krypton.Docking.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\CtpGgglMapWinUI.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\EntityFramework.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\EntityFramework.SqlServer.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\GMap.NET.Core.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\GMap.NET.WindowsForms.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\JWLibrary.Winform.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\kontrols.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\LiveCharts.WinForms.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\MaterialFramework.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\MaterialSkin.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\MetroFramework.Design.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\MetroFramework.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\MetroFramework.Fonts.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\Newtonsoft.Json.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\PA.Picture.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\Twilio.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\WinFormAnimation.dll
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\CircularProgressBar.xml
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\EntityFramework.xml
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\EntityFramework.SqlServer.xml
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\LiveCharts.WinForms.pdb
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\LiveCharts.WinForms.xml
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\MySql.Data.xml
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\Newtonsoft.Json.xml
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\Twilio.xml
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\bin\Debug\WinFormAnimation.xml
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\obj\Debug\DEVELOPBUILDING.csprojAssemblyReference.cache
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\obj\Debug\VAULT.loginDEVELOPBUILDING.resources
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\obj\Debug\VAULT.principalformapp.resources
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\obj\Debug\VAULT.Properties.Resources.resources
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\obj\Debug\DEVELOPBUILDING.csproj.GenerateResource.cache
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\obj\Debug\DEVELOPBUILDING.csproj.CoreCompileInputs.cache
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\obj\Debug\DEVELOPBUILDING.csproj.CopyComplete
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\obj\Debug\DevBuilding.exe
+F:\Recover CRUZER STICK\AICI FISIERE\lord2\VAULT\obj\Debug\DevBuilding.pdb

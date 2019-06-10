@@ -1,0 +1,4 @@
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\fixbugs\VAULT.loginDEVELOPBUILDING.resources
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\fixbugs\VAULT.principalformapp.resources
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\fixbugs\VAULT.Properties.Resources.resources
+C:\Users\FISHU\Desktop\update\DEVELOPBUILDING\VAULT\obj\fixbugs\DEVELOPBUILDING.csproj.GenerateResource.Cache

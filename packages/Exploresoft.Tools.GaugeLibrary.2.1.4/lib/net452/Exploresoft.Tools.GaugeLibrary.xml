@@ -1,0 +1,1020 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Exploresoft.Tools.GaugeLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.BarGauge">
+            <summary>
+            Exloresoft design bespoke .NET WPF gauges, and we specialise in creating robust and graphically intuitive controls at an affordable price.
+            For more information about our products go to http://www.exploresoft.net
+            </summary>
+            <summary>
+            BarGauge
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.BarGauge.Maximum">
+            <summary>
+            Gets or sets the maximum property value. There is no limit set for this property.
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.BarGauge.Value">
+            <summary>
+            Gets or sets the value of the gauge, by default it's set to 0 by incrementing this value the gauge will display graphically its position in the control
+            never exceeding the maximum value.       
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.BarGauge.ExecuteValue(Exploresoft.Tools.GaugeLibrary.Controls.BarGauge,System.Double)">
+            <summary>
+            Updates the gauge storyboard
+            </summary>
+            <param name="control"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.BarGauge.ExecuteBackGroundColorChange(Exploresoft.Tools.GaugeLibrary.Controls.BarGauge,System.Windows.Media.Brush)">
+            <summary>
+             Gets or sets the background color
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.BarGauge.#ctor">
+            <summary>
+            Initialize Exploresoft gauge component
+            </summary>
+        </member>
+        <member name="E:Exploresoft.Tools.GaugeLibrary.Controls.BarGauge.OnStatusChanged">
+            <summary>
+            OnStatusChanged provides information about the control status, started, processing , idle ,  completed.
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.BarGauge.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.DonutGauge">
+            <summary>
+            Interaction logic for DonutGauge.xaml 
+            </summary>
+            <summary>
+            DonutGauge
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.DonutGauge.FontColor">
+            <summary>
+            Gets or sets the font forground color
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.DonutGauge.Maximum">
+            <summary>
+            Gets or sets the maximum property value. There is no limit set for this property.
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.DonutGauge.ToolTipContent">
+            <summary>
+            Gets or sets the tool tip content property value.
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.DonutGauge.HeaderContent">
+            <summary>
+            Gets or sets the Header content value by default the header is set to "Speed".
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.DonutGauge.Value">
+            <summary>
+            Gets or sets the value of the gauge, by default it's set to 0 by incrementing this value the gauge will display graphically its position in the control
+            never exceeding the maximum value.       
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.DonutGauge.ExecuteValue(Exploresoft.Tools.GaugeLibrary.Controls.DonutGauge,System.Double)">
+            <summary>
+            Updates the gauge storyboard
+            </summary>
+            <param name="control"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.DonutGauge.#ctor">
+            <summary>
+            Initialize Exploresoft gauge component
+            </summary>
+        </member>
+        <member name="E:Exploresoft.Tools.GaugeLibrary.Controls.DonutGauge.OnStatusChanged">
+            <summary>
+            OnStatusChanged provides information about the control status, started, processing , idle ,  completed.
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.DonutGauge.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.CogCircle">
+            <summary>
+            Interaction logic for CogCircle.xaml
+            </summary>
+            <summary>
+            CogCircle
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.CogCircle.RunState">
+            <summary>
+            Sets the execution run state of the animation Start / Stop animation.
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.CogCircle.SecondaryBorder">
+            <summary>
+             Gets or sets the background color
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.CogCircle.CogBackground">
+            <summary>
+             Gets or sets the inner block color
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.CogCircle.ActiveBackground">
+            <summary>
+             Gets or sets the inner block color
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.CogCircle.SecondaryBackground">
+            <summary>
+             Gets or sets the background color
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.CogCircle.Run">
+            <summary>
+            Gets and sets the run state Start / Stop
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.CogCircle.ExecuteValue(Exploresoft.Tools.GaugeLibrary.Controls.CogCircle,Exploresoft.Tools.GaugeLibrary.Controls.CogCircle.RunState)">
+            <summary>
+            
+            </summary>
+            <param name="control"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.CogCircle.#ctor">
+            <summary>
+            Initialize Exploresoft CogCircle component
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.CogCircle.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge">
+            <summary>
+            Interaction logic for SpeedGauge.xaml
+            </summary>
+            <summary>
+            SpeedGauge
+            </summary>
+        </member>
+        <member name="E:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.OnStatusChanged">
+            <summary>
+            OnStatus changed provides information about the control status, started, processing , idle ,  completed.
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.DisplaySpeed">
+            <summary>
+            Gets or sets the display speed meter
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.Caption1">
+            <summary>
+            Gets or sets the caption1 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.Caption2">
+            <summary>
+            Gets or sets the caption2 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.Caption3">
+            <summary>
+            Gets or sets the caption3 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.Caption4">
+            <summary>
+            Gets or sets the caption4 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.Caption5">
+            <summary>
+            Gets or sets the caption5 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.Caption6">
+            <summary>
+            Gets or sets the caption6 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.Caption7">
+            <summary>
+            Gets or sets the caption7 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.Caption8">
+            <summary>
+            Gets or sets the caption8 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.Caption9">
+            <summary>
+            Gets or sets the caption9 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.FontColor">
+            <summary>
+            Gets or sets the font forground color
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.Value">
+            <summary>
+            Gets or sets the value 
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.ExecuteSpeedRatio(System.Double,System.Object)">
+            <summary>
+            Changes the speed ratio of the control
+            </summary>
+            <param name="value"></param>
+            <param name="d"></param>        
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.Maximum">
+            <summary>
+            Gets or sets the Maximun value
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.#ctor">
+            <summary>
+            Initialize Exploresoft SpeedGauge component
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.SpeedGauge.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.FuelGauge">
+            <summary>
+            Interaction logic for FuelGauge.xaml
+            </summary>
+            <summary>
+            FuelGauge
+            </summary>
+        </member>
+        <member name="E:Exploresoft.Tools.GaugeLibrary.Controls.FuelGauge.OnStatusChanged">
+            <summary>
+            OnStatus changed provides information about the control status, started, processing , idle ,  completed.
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.FuelGauge.DisplayTemp">
+            <summary>
+            Gets or sets the display temperature meter
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.FuelGauge.FuelValue">
+            <summary>
+            Gets or sets the value 
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.FuelGauge.TempValue">
+            <summary>
+            Gets or sets the value 
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.FuelGauge.TempMaximum">
+            <summary>
+            Gets or sets the Maximun value
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.FuelGauge.ExecuteTempValue(Exploresoft.Tools.GaugeLibrary.Controls.FuelGauge,System.Double)">
+            <summary>
+            Updates the gauge storyboard
+            </summary>
+            <param name="control"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.FuelGauge.ExecuteValue(Exploresoft.Tools.GaugeLibrary.Controls.FuelGauge,System.Double)">
+            <summary>
+            Updates the gauge storyboard
+            </summary>
+            <param name="control"></param>
+            <param name="value"></param>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.FuelGauge.FuelMaximum">
+            <summary>
+            Gets or sets the Maximun value
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.FuelGauge.#ctor">
+            <summary>
+            Initialize Exploresoft FuelGauge component
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.FuelGauge.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.RetinaGauge">
+            <summary>
+            Interaction logic for RetinaGauge.xaml
+            </summary>
+            <summary>
+            RetinaGauge
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.RetinaGauge.Run">
+            <summary>
+            Gets and sets the run state Start / Stop
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.RetinaGauge.ExecuteReset">
+            <summary>
+            Executes the control reset
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.RetinaGauge.ExecuteValue(Exploresoft.Tools.GaugeLibrary.Controls.RetinaGauge,Exploresoft.Tools.GaugeLibrary.Controls.CogCircle.RunState)">
+            <summary>
+            
+            </summary>
+            <param name="control"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.RetinaGauge.#ctor">
+            <summary>
+            Initialize Exploresoft RetinaGauge component
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.RetinaGauge.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.EyeGauge">
+            <summary>
+            Interaction logic for EyeGauge.xaml
+            </summary>
+            <summary>
+            EyeGauge
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.EyeGauge.GaugeBackground">
+            <summary>
+            Gets or sets the background color property
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.EyeGauge.Maximum">
+            <summary>
+            Gets or sets the maximum property value. There is no limit set for this property.
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.EyeGauge.FontColor">
+            <summary>
+            Gets or sets the font forground color
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.EyeGauge.Value">
+            <summary>
+            Gets or sets the value of the gauge, by default it's set to 0 by incrementing this value the gauge will display graphically its position in the control
+            never exceeding the maximum value.       
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.EyeGauge.ExecuteValue(Exploresoft.Tools.GaugeLibrary.Controls.EyeGauge,System.Double)">
+            <summary>
+            Updates the gauge storyboard
+            </summary>
+            <param name="control"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.EyeGauge.#ctor">
+            <summary>
+            Initialize Exploresoft gauge component
+            </summary>
+        </member>
+        <member name="E:Exploresoft.Tools.GaugeLibrary.Controls.EyeGauge.OnStatusChanged">
+            <summary>
+            OnStatusChanged provides information about the control status, started, processing , idle ,  completed.
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.EyeGauge.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.ProgressGauge">
+            <summary>
+            Interaction logic for ProgressGauge.xaml
+            </summary>
+            <summary>
+            ProgressGauge
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.ProgressGauge.GaugeBackground">
+            <summary>
+            Gets or sets the header background color property
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.ProgressGauge.Maximum">
+            <summary>
+            Gets or sets the maximum property value. There is no limit set for this property.
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.ProgressGauge.HeaderContent">
+            <summary>
+            Gets or sets the Header content value by default the header is set to "Speed".
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.ProgressGauge.Value">
+            <summary>
+            Gets or sets the value of the gauge, by default it's set to 0 by incrementing this value the gauge will display graphically its position in the control
+            never exceeding the maximum value.       
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.ProgressGauge.ExecuteValue(Exploresoft.Tools.GaugeLibrary.Controls.ProgressGauge,System.Double)">
+            <summary>
+            Updates the gauge storyboard
+            </summary>
+            <param name="control"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.ProgressGauge.#ctor">
+            <summary>
+            Initialize Exploresoft gauge component
+            </summary>
+        </member>
+        <member name="E:Exploresoft.Tools.GaugeLibrary.Controls.ProgressGauge.OnStatusChanged">
+            <summary>
+            OnStatusChanged provides information about the control status, started, processing , idle ,  completed.
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.ProgressGauge.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge">
+            <summary>
+            Interaction logic for RevGauge.xaml
+            </summary>
+            <summary>
+            RevGauge
+            </summary>
+        </member>
+        <member name="E:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.OnStatusChanged">
+            <summary>
+            OnStatus changed provides information about the control status, started, processing , idle ,  completed.
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.Caption1">
+            <summary>
+            Gets or sets the caption1 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.Caption2">
+            <summary>
+            Gets or sets the caption2 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.Caption3">
+            <summary>
+            Gets or sets the caption3 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.Caption4">
+            <summary>
+            Gets or sets the caption4 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.Caption5">
+            <summary>
+            Gets or sets the caption5 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.Caption6">
+            <summary>
+            Gets or sets the caption6 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.Caption7">
+            <summary>
+            Gets or sets the caption7 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.Caption8">
+            <summary>
+            Gets or sets the caption8 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.Caption9">
+            <summary>
+            Gets or sets the caption9 value
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.FontColor">
+            <summary>
+            Gets or sets the font forground color
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.DisplaySpeed">
+            <summary>
+            Gets or sets the display speed meter
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.Value">
+            <summary>
+            Gets or sets the value 
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.Maximum">
+            <summary>
+            Gets or sets the Maximum value
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.#ctor">
+            <summary>
+            Initialize Exploresoft RevGauge component
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.RevGauge.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge">
+            <summary>
+            Exploresoft SalesGauge SalesGauge.xaml
+            </summary>
+            <summary>
+            SalesGauge
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.GaugeViewModes">
+            <summary>
+            Displays the percentage or number or both
+            </summary>
+        </member>
+        <member name="F:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.GaugeViewModes.Precent">
+            <summary>
+            Display Percent
+            </summary>
+        </member>
+        <member name="F:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.GaugeViewModes.Number">
+            <summary>
+            Display Number
+            </summary>
+        </member>
+        <member name="F:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.GaugeViewModes.Both">
+            <summary>
+            Display both types
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.FontColor">
+            <summary>
+            Gets or sets the font forground color
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.DisplayValue">
+            <summary>
+            Gets or sets the display value property.
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.Header">
+            <summary>
+            Gets or sets the header background color property
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.MinThreshold">
+            <summary>
+            Gets or sets the minimum threshold property
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.MaxThreshold">
+            <summary>
+            Gets or sets the maximum Threshold property
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.Maximum">
+            <summary>
+            Gets or sets the maximum property value.There is no limit set for this property.
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.Header1Content">
+            <summary>
+            Gets or sets the Header one content value by default the header is set to "1.5M".
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.Header2Content">
+            <summary>
+            Gets or sets the Header two content value by default the header is set to "2.5M".
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.Header3Content">
+            <summary>
+            Gets or sets the Header three content value by default the header is set to "3.5M".
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.Header4Content">
+            <summary>
+            Gets or sets the Header four content value by default the header is set to "4.5M".
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.GaugeViewMode">
+            <summary>
+            Gets or sets the GaugeViewMode value by default the GaugeViewMode is set to "Percent".
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.HeaderTitleContent">
+            <summary>
+            Gets or sets the Header title content value by default the header is set to "empty".
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.HeaderLeftTitleContent">
+            <summary>
+            Gets or sets the left Header title content value by default the header is set to "empty".
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.Value">
+            <summary>
+            Gets or sets the value of the gauge, by default it's set to 0 by incrementing this value the gauge will display graphically its position in the control
+            never exceeding the maximum value.       
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.ExecuteValue(Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge,System.Double)">
+            <summary>
+            Updates the gauge storyboard
+            </summary>
+            <param name="control"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.#ctor">
+            <summary>
+            Initialize Exploresoft SalesGauge component
+            </summary>
+        </member>
+        <member name="E:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.OnStatusChanged">
+            <summary>
+            OnStatusChanged provides information about the control status, started, processing , idle ,  completed.
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.SalesGauge.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.SolidGauge">
+            <summary>
+            Interaction logic for SolidGauge.xaml
+            </summary>
+            <summary>
+            SolidGauge
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SolidGauge.FontColor">
+            <summary>
+            Gets or sets the font forground color
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SolidGauge.Maximum">
+            <summary>
+            Gets or sets the maximum property value. There is no limit set for this property.
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SolidGauge.HeaderContent">
+            <summary>
+            Gets or sets the Header content value by default the header is set to "Speed".
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.SolidGauge.Value">
+            <summary>
+            Gets or sets the value of the gauge, by default it's set to 0 by incrementing this value the gauge will display graphically its position in the control
+            never exceeding the maximum value.       
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.SolidGauge.ExecuteValue(Exploresoft.Tools.GaugeLibrary.Controls.SolidGauge,System.Double)">
+            <summary>
+            Updates the gauge storyboard
+            </summary>
+            <param name="control"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.SolidGauge.#ctor">
+            <summary>
+            Initialize Exploresoft gauge component
+            </summary>
+        </member>
+        <member name="E:Exploresoft.Tools.GaugeLibrary.Controls.SolidGauge.OnStatusChanged">
+            <summary>
+            OnStatusChanged provides information about the control status, started, processing , idle ,  completed.
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.SolidGauge.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.CircleGauge">
+            <summary>
+            Exloresoft design bespoke .NET WPF gauges, and we specialise in creating robust and graphically intuitive controls at an affordable price.
+            For more information about our products go to http://www.exploresoft.net
+            </summary>
+            <summary>
+            CircleGauge
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.CircleGauge.Maximum">
+            <summary>
+            Gets or sets the maximum property value. There is no limit set for this property.
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.CircleGauge.Value">
+            <summary>
+            Gets or sets the value of the gauge, by default it's set to 0 by incrementing this value the gauge will display graphically its position in the control
+            never exceeding the maximum value.       
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.CircleGauge.ExecuteValue(Exploresoft.Tools.GaugeLibrary.Controls.CircleGauge,System.Double)">
+            <summary>
+            Updates the gauge storyboard
+            </summary>
+            <param name="control"></param>
+            <param name="value"></param>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.CircleGauge.SecondaryBorderBrush">
+            <summary>
+             Gets or sets the background color
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.CircleGauge.SecondaryBackground">
+            <summary>
+             Gets or sets the background color
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.CircleGauge.#ctor">
+            <summary>
+            Initialize Exploresoft gauge component
+            </summary>
+        </member>
+        <member name="E:Exploresoft.Tools.GaugeLibrary.Controls.CircleGauge.OnStatusChanged">
+            <summary>
+            OnStatusChanged provides information about the control status, started, processing , idle ,  completed.
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.CircleGauge.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.StatisticGauge">
+            <summary>
+            Interaction logic for StatisticGuage.xaml
+            </summary>
+            <summary>
+            StatisticGauge
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.StatisticGauge.Maximum">
+            <summary>
+            Gets or sets the maximum property value. There is no limit set for this property.
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.StatisticGauge.Value">
+            <summary>
+            Gets or sets the value of the gauge, by default it's set to 0 by incrementing this value the gauge will display graphically its position in the control
+            never exceeding the maximum value.       
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.StatisticGauge.ExecuteValue(Exploresoft.Tools.GaugeLibrary.Controls.StatisticGauge,System.Double)">
+            <summary>
+            Updates the gauge storyboard
+            </summary>
+            <param name="control"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.StatisticGauge.ExecuteBackGroundColorChange(Exploresoft.Tools.GaugeLibrary.Controls.StatisticGauge,System.Windows.Media.Brush)">
+            <summary>
+             Gets or sets the background color
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.StatisticGauge.#ctor">
+            <summary>
+            Initialize Exploresoft gauge component
+            </summary>
+        </member>
+        <member name="E:Exploresoft.Tools.GaugeLibrary.Controls.StatisticGauge.OnStatusChanged">
+            <summary>
+            OnStatusChanged provides information about the control status, started, processing , idle ,  completed.
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.StatisticGauge.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.Converters.MultiPercentageConverter">
+            <summary>
+            Converts the value to a percentage
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.Converters.MultiPercentageConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Returns a percentage
+            </summary>
+            <param name="values"></param>
+            <param name="targetType"></param>
+            <param name="parameter"></param>
+            <param name="culture"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.Converters.MultiPercentageConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Currently not used
+            </summary>
+            <param name="value"></param>
+            <param name="targetTypes"></param>
+            <param name="parameter"></param>
+            <param name="culture"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.Converters.HighValueConverter">
+            <summary>
+            Value converter no 
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.Converters.HighValueConverter.CurrentHighLight">
+            <summary>
+            Gets or sets the current highlight colour
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Controls.Converters.HighValueConverter.ActiveHighLight">
+            <summary>
+            Gets or sets the active highlight colour
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.Converters.HighValueConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Returns the value no conversation required.
+            </summary>
+            <param name="values"></param>
+            <param name="targetType"></param>
+            <param name="parameter"></param>
+            <param name="culture"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.Converters.HighValueConverter.ConvertBack(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            
+            </summary>
+            <param name="value"></param>
+            <param name="targetTypes"></param>
+            <param name="parameter"></param>
+            <param name="culture"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.Converters.HighValueConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Convert back
+            </summary>
+            <param name="value"></param>
+            <param name="targetTypes"></param>
+            <param name="parameter"></param>
+            <param name="culture"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.Converters.VisibilityConverter">
+            <summary>
+            Value converter no 
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.Converters.VisibilityConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Returns the value no conversation required.
+            </summary>
+            <param name="values"></param>
+            <param name="targetType"></param>
+            <param name="parameter"></param>
+            <param name="culture"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.Converters.VisibilityConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Not currently used.
+            </summary>
+            <param name="value"></param>
+            <param name="targetType"></param>
+            <param name="parameter"></param>
+            <param name="culture"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Controls.Converters.PercentageConverter">
+            <summary>
+            Value converter no 
+            </summary>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.Converters.PercentageConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Returns the value no conversation required.
+            </summary>
+            <param name="values"></param>
+            <param name="targetType"></param>
+            <param name="parameter"></param>
+            <param name="culture"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Exploresoft.Tools.GaugeLibrary.Controls.Converters.PercentageConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Not currently used.
+            </summary>
+            <param name="value"></param>
+            <param name="targetType"></param>
+            <param name="parameter"></param>
+            <param name="culture"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Events.ProcessEventArgs">
+            <summary>
+            Generic Process event handler 
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Events.ProcessEventArgs.Status">
+            <summary>
+            Status provides information about the control processing status, it provides information if the control has started to process information or if the control has reached its
+            maximum value.
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Events.ProcessEventArgs.ControlStatus">
+            <summary>
+            Gets the control status, is the control currently started, processing, idle, completed
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Events.ProcessEventArgs.Name">
+            <summary>
+            Gets the name of the control
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Events.ProcessEventArgs.Value">
+            <summary>
+            Gets the incremented value of the control 
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Events.ProcessEventArgs.Maximum">
+            <summary>
+            Gets the maximum value
+            </summary>
+        </member>
+        <member name="T:Exploresoft.Tools.GaugeLibrary.Model.TrialManager">
+            <summary>
+            Exploresoft trial manager class
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Model.TrialManager.GenerateSerialNo">
+            <summary>
+            Generate serial number when first run
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Model.TrialManager.GetSerialNo">
+            <summary>
+            Gets the serial number
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Model.TrialManager.TrialStartDay">
+            <summary>
+            Gets the day the trial started
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Model.TrialManager.TrialStartMonth">
+            <summary>
+            Gets the month the trial started
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Model.TrialManager.TrialStartYear">
+            <summary>
+            Gets the year the trail started
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Model.TrialManager.HasExpiredCrossInDesignMode">
+            <summary>
+            Gets the design mode 
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Model.TrialManager.HasTrialExpired">
+            <summary>
+            Gets has the trial expired
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Model.TrialManager.IsRegistered">
+            <summary>
+            Gets is the control registered
+            </summary>
+        </member>
+        <member name="P:Exploresoft.Tools.GaugeLibrary.Model.TrialManager.GetLastBuildDate">
+            <summary>
+            Gets the last build date
+            </summary>
+        </member>
+    </members>
+</doc>
